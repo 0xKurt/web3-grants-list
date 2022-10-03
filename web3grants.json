@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GrantTest 1",
+    "description": "TestGrant 1 is  an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+    "url": "https://testgrant1.com",
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "tags": [
+      "DeFi",
+      "Development"
+    ],
+    "imgUrl": "https://images.unsplash.com/photo-1498551172505-8ee7ad69f235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  },
+  {
+    "name": "TestGrant 2",
+    "description": "TestGrant 2 is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+    "url": "https://testgrant2.com",
+    "chains": [
+      "Algorand",
+      "Polygon"
+    ],
+    "tags": [
+      "Community",
+      "DeFi"
+    ],
+    "imgUrl": "https://images.unsplash.com/photo-1498551172505-8ee7ad69f235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60"
+  }  
+]
