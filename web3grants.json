@@ -22,8 +22,7 @@
     "description": "Algorand provides grants for the following categories: Research, Development of Tools and Infrastructure, Community Building, and Education and Applications.",
     "url": "https://www.algorand.foundation/grants",
     "networks": [
-      "Algorand",
-      "DeFi"
+      "Algorand"
     ],
     "tags": [
       "Community",
