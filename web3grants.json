@@ -3,7 +3,7 @@
     "name": "Aave Grants DAO 👻",
     "description": "Aave Grants DAO is a community-led grants program to fund ideas submitted by the Aave protocol’s community, with a focus on empowering a wider network of community developers. The grants program was created after a community discussion, which can be found on Aave's governance forum.",
     "url": "https://aavegrants.org/",
-    "chains": [
+    "networks": [
       "Arbitrum",
       "Avalanche",
       "Ethereum",
@@ -21,7 +21,7 @@
     "name": "Algorand Foundation",
     "description": "Algorand provides grants for the following categories: Research, Development of Tools and Infrastructure, Community Building, and Education and Applications.",
     "url": "https://www.algorand.foundation/grants",
-    "chains": [
+    "networks": [
       "Algorand",
       "DeFi"
     ],
@@ -36,7 +36,7 @@
     "name": "Alchemy Developer Grant (WAGBI)",
     "description": "WAGBI Grants are for developers who are new to web3 and are ready to start building. Grant format will be rewarded as credited compute units (CUs) on Alchemy’s developer platform.",
     "url": "https://www.alchemy.com/developer-grant-program",
-    "chains": [
+    "networks": [
       "Astar",
       "Arbitrum",
       "Ethereum",
@@ -54,7 +54,7 @@
     "name": "Arweave",
     "description": "Looking for storage for your archives? Look no further. Museums, archives, historic sites, and online libraries can apply to the archival grants program to receive free storage and assistance from the Arweave team.",
     "url": "https://forms.gle/Q6UwKvCkvqxdngrQ8",
-    "chains": [
+    "networks": [
       "Arweave"
     ],
     "tags": [
@@ -65,7 +65,7 @@
     "name": "Balancer Grants DAO",
     "description": "The Grant Program provides support and funding to projects committed to supporting the Balancer Protocol in achieving its mission to become the number one source of liquidity for DeFi. This program is made for groups and individuals that want to build on the Balancer Protocol or supports the development of the Balancer ecosystem.",
     "url": "https://quark-ceres-740.notion.site/Balancer-Grants-938f1b979810427f8d903a904315da41",
-    "chains": [
+    "networks": [
       "Arbitrum",
       "Ethereum",
       "Polygon",
@@ -80,7 +80,7 @@
     "name": "Binance_X",
     "description": "Binance Smart Chain Accelerator Fund. Build and accelerate on the Binance Smart Chain.",
     "url": "https://binancex.dev/",
-    "chains": [
+    "networks": [
       "Binance"
     ],
     "tags": [
@@ -91,7 +91,7 @@
     "name": "Celo Community Fund",
     "description": "Celo Community Fund I (CCF I) is the first community approved spend proposal from the on-chain Community Fund (explorer). Community members seeking funding can apply to CCF I, which is managed by three community stewards, or they can submit their own governance spend proposal to be voted on by CELO owners.",
     "url": "https://celocommunityfund.org/",
-    "chains": [
+    "networks": [
       "Celo"
     ],
     "tags": [
@@ -105,7 +105,7 @@
     "name": "Chainlink Support for Community and Development",
     "description": "The Chainlink Community Grant Program funds development teams and researchers building a more functional, accessible, and socially impactful smart contract economy.",
     "url": "https://chain.link/community/grants",
-    "chains": [
+    "networks": [
       "Arbitrum",
       "Avalanche",
       "Binance",
@@ -124,7 +124,7 @@
     "name": "Compound Grant Program",
     "description": "Mission: To provide grants to projects, ideas, and events that benefit Compound and its ecosystem. ",
     "url": "https://compoundgrants.org/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -136,7 +136,7 @@
     "name": "Consensys Grants",
     "description": "ConsenSys Grants funds blockchain technology projects that meet the needs of a rapidly-accelerating Ethereum ecosystem. Some key areas include: core infrastructure, social impact, improved developer tooling and UX, security, and access to education. ",
     "url": "https://consensys.net/grants/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -150,7 +150,7 @@
     "name": "dydx Grants",
     "description": "dydx Grants is a program that funds projects that build on top of the dydx protocol. The program is designed to support the growth of the dydx ecosystem and the DeFi space as a whole.",
     "url": "https://www.dydxgrants.com/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -162,7 +162,7 @@
     "name": "Ethereum Ecosystem Support Program",
     "description": "ESP focuses on strengthening Ethereum's foundations and enabling future builders: improving infrastructure, expanding the range of tools available to those building on Ethereum, deepening our understanding of cryptographic primitives, and growing the builder ecosystem through education and community development. The work we support is open source, non-commercial and built for positive sum outcomes.",
     "url": "https://esp.ethereum.foundation/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -173,7 +173,7 @@
     "name": "Fantom Incentive Program",
     "description": "The original Fantom Incentive Program has received more than 100 applications and disbursed over 35 million $FTM to some of the top TVL projects on Fantom, helping them grow the Fantom ecosystem and build unstoppable applications on the most accessible and user-friendly blockchain.",
     "url": "https://fantom.foundation/blog/new-335m-ftm-incentive-program-with-gitcoin-grants/",
-    "chains": [
+    "networks": [
       "Fantom"
     ],
     "tags": [
@@ -189,7 +189,7 @@
     "name": "Filecoin Dev Grants",
     "description": "Engaging community members to contribute to the Filecoin protocol, project and ecosystem. To date, the Filecoin project has focused primarily on research, specification and implementation of a decentralized storage network protocol. Throughout this process we have been fortunate to work with incredible community members and contributors. Some are already building tools on the budding network in active development.",
     "url": "https://grants.filecoin.io/",
-    "chains": [
+    "networks": [
       "Filecoin"
     ],
     "tags": [
@@ -201,7 +201,7 @@
     "name": "Flow Developer Grants",
     "description": "The Developer Experience team at Flow oversees the grants program for developers. Grant projects should help accelerate and enhance the process of building and consuming apps on Flow.",
     "url": "https://github.com/onflow/developer-grants",
-    "chains": [
+    "networks": [
       "Flow"
     ],
     "tags": [
@@ -213,7 +213,7 @@
     "name": "FTX Future Fund",
     "description": "We want to fund projects with clear answers to the question: “How will this project improve humanity’s odds of surviving and flourishing for thousands of years or longer?”",
     "url": "https://ftxfuturefund.org/apply/",
-    "chains": [],
+    "networks": [],
     "tags": [
       "Development"
     ]
@@ -222,7 +222,7 @@
     "name": "Fuse Grants and Bounties",
     "description": "Since the inception of Fuse, the core team has facilitated the growth of the Fuse Network blockchain and also developed a set of tools for developers to be able to easily and quickly build extremely user-friendly decentralized applications (dApps).",
     "url": "https://docs.fuse.io/aboutFuse/about-fuse/things-you-can-do-on-fuse/grants-and-bounties",
-    "chains": [
+    "networks": [
       "Fuse"
     ],
     "tags": [
@@ -237,7 +237,7 @@
     "name": "Game7",
     "description": "Game7 believes in OS Software. While some software should be free, no one should have to work for free to build it. Our Grants Program has no expectation of financial returns and aims to help builders build, removing the stress of not knowing how to make ends meet.",
     "url": "https://game7.io/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -249,7 +249,7 @@
     "name": "Gitcoin Grants",
     "description": "Gitcoin Grants sustain projects with Quadratic Funding.",
     "url": "https://gitcoin.co/grants/",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Fantom",
       "Polygon"
@@ -265,7 +265,7 @@
     "name": "Gnosis Ecosystem Fund",
     "description": "The Gnosis Ecosystem Fund empowers teams to drive the global adoption of decentralized applications by leveraging the full potential of Gnosis' products and protocols.",
     "url": "https://docs.ethhub.io/other/funds/geco/",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Arbitrum",
       "Aurora",
@@ -283,7 +283,7 @@
     "name": "Grant For The Web",
     "description": "Grant for the Web is an Interledger Foundation program to boost open, fair, and inclusive standards and innovation in Web Monetization.",
     "url": "https://www.grantfortheweb.org/",
-    "chains": [],
+    "networks": [],
     "tags": [
       "Development",
       "DeFi"
@@ -293,7 +293,7 @@
     "name": "Harmony",
     "description": "Harmony is driving blockchain adoption by building bridges to all networks. Our recent blogs \"Harmony’s $1M Hackathon & DAO\" and \"Here’s to The ONEs Who Build\" call for working together with builders and communities. Below are the strategies and the execution plans for growing Harmony Ecosystem with our $300M+ treasury fund.",
     "url": "https://docs.harmony.one/home/general/ecosystem/grants",
-    "chains": [
+    "networks": [
       "Harmony"
     ],
     "tags": [
@@ -306,7 +306,7 @@
     "name": "Heco Grants (Hackerlink)",
     "description": "HackerLink Grant is a quadratic funding dapp that supports early-stage projects and ideas from open source developer communities. Grant allows both community members and organizations (foundations, venture funds, senior projects) to participate in funding early developer projects and blockchian ventures.",
     "url": "https://dorahacks.io/grant/heco/",
-    "chains": [
+    "networks": [
       "HECO"
     ],
     "tags": [
@@ -317,7 +317,7 @@
     "name": "Idle Grants",
     "description":"Idle Grants Program (IGP) is an opportunity to contribute to the Idle ecosystem, shape the future of finance, and level up individuals' technical and soft skills in DeFi, as part of a community of passionate contributors.",
     "url": "https://docs.idle.finance/governance/idle-grants-program#:~:text=What%20is%20the%20Idle%20Grant,a%20community%20of%20passionate%20contributors",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Polygon"
     ],
@@ -330,7 +330,7 @@
     "name": "Interchain Foundation",
     "description": "The Builders Program provides mentorship, structured support and access to a wide network of partners. It is led by a team experienced in building the ecosystem’s software and infrastructure.",
     "url": "https://interchain.io/builders",
-    "chains": [
+    "networks": [
       "Cosmos"
     ],
     "tags": [
@@ -342,7 +342,7 @@
     "name": "IOSG Kickstarter Program",
     "description": "As a developer-friendly venture capital, IOSG believes there are world-changing entrepreneurs. Kickstarter Program is designed to support those developers and early-stage project teams contributing to the blockchain ecosystem worldwide. ",
     "url": "https://iosg.vc",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Polygon"
     ],
@@ -355,7 +355,7 @@
     "name": "Kraken Bitcoin and Crypto Developer Grant Program",
     "description": "Kraken grants are awarded without obligation. Grantees will have the opportunity to submit quarterly updates on the impact of their work, discuss their work at Kraken events and on Kraken social media.",
     "url": "https://www.kraken.com/features/grants",
-    "chains": [
+    "networks": [
       "Bitcoin",
       "Ethereum",
       "Lightning",
@@ -370,7 +370,7 @@
     "name": "Livepeer Community Node Grant Program",
     "description": "Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. We’re excited to launch the Community Grant Program, which provides developers with grants ranging from 300 - 3000 LPT (subject to change). Grant program provides developers with an opportunity to build a position in the network early on.",
     "url": "https://github.com/Livepeer-Community-Node/Grant-Program",
-    "chains": [
+    "networks": [
       "Livepeer"
     ],
     "tags": [
@@ -382,7 +382,7 @@
     "name": "Lisk",
     "description": "The Lisk Foundation's Grant Program is offering milestone-based funding to support apps built with the Lisk SDK and aimed at expanding the Lisk Ecosystem.",
     "url": "https://lisk.com/grant-program",
-    "chains": [
+    "networks": [
       "Lisk"
     ],
     "tags": [
@@ -394,7 +394,7 @@
     "name": "LEGO | Lido Ecosystem Grants Organisation",
     "description": "The mission of the Lido Ecosystem Grants Organization (LEGO) is to provide valuable resources to contributors who help to improve Lido and the surrounding staking ecosystem, whether through development efforts, content, events, ideas or anything else.",
     "url": "https://lego.lido.fi/",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Solana",
       "Polygon",
@@ -410,7 +410,7 @@
     "name": "MetaCartel Grants",
     "description": "MetaCartel is a non-profit grants fund focused on creation and impact. DAO is funded mostly by individuals in the community.",
     "url": "https://forum.metacartel.org/t/guide-how-to-post-a-funding-proposal/74",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -424,7 +424,7 @@
     "name": "Mina",
     "description": "The Mina Grants Program recognizes and rewards those working on projects and demonstrating behaviors that further the Mina protocol and community.",
     "url": "https://testgrant2.com",
-    "chains": [
+    "networks": [
       "Mina"
     ],
     "tags": [
@@ -436,7 +436,7 @@
     "name": "MolochDAO",
     "description": "MolochDAO is a Decentralized Autonomous Organization, deployed on Ethereum mainnet. Members contribute capital with the sole intention of giving it all away to fund Ethereum infrastructure as an essential digital public good.",
     "url": "https://molochdao.com/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -448,7 +448,7 @@
     "name": "mStable Dev Grants",
     "description": "The mStable Grants Program empowers the community to help grow the mStable ecosystem. Grants are administered by the community-led mStable GrantsDAO, which facilitates the process of providing grants to projects, ideas and events that build on top of mStable.",
     "url": "https://docs.mstable.org/advanced/grants-program",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Polygon"
     ],
@@ -462,7 +462,7 @@
     "name": "NEAR Grants",
     "description": "The NEAR ecosystem offers multiple funding options to support initiatives aimed at decentralizing, growing, and innovating on NEAR.",
     "url": "https://near.org/grants/",
-    "chains": [
+    "networks": [
       "NEAR"
     ],
     "tags": [
@@ -474,7 +474,7 @@
     "name": "Nexus Mutual Community Fund",
     "description": "Projects should benefit the growth and development of the mutual but aren't limited otherwise - examples could include anything from writing to videos to building on top of Nexus and beyond.",
     "url": "https://nexusmutual.gitbook.io/docs/nexus-mutant-community/community-fund/grant-application-process",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -486,7 +486,7 @@
     "name": "Nervos",
     "description": "Our long term vision for Nervos is to be fully decentralized in all aspects and community-led. Part of our journey to achieving this is bootstrapping and empowering individuals, projects and teams who share a common vision for the project.",
     "url": "https://www.nervos.org/developer/grants",
-    "chains": [
+    "networks": [
       "Nervos"
     ],
     "tags": [
@@ -499,7 +499,7 @@
     "name": "Oasis",
     "description": "The ROSE Bloom Grants Program will help you kickstart the development of your projects in a range of key focus areas and support NFTs, P2E Gaming, DeFi, Metaverse, Data DAO, data tokenization and privacy dApps. Each proposal is eligible to receive up to $50,000 USD in USDT tokens.",
     "url": "https://oasisprotocol.org/grant-programs",
-    "chains": [
+    "networks": [
       "Oasis"
     ],
     "tags": [
@@ -515,7 +515,7 @@
     "name": "Okcoin Open-Source Developer Grant",
     "description": "Okcoin is dedicated to invest in protocol development, increased utility and adoption, and the developer ecosystem. Grant recipients are chosen for their articulated and demonstrated vision for advancing the ecosystem; our funding is provided to support their work.",
     "url": "https://developergrant.okcoin.com/",
-    "chains": [
+    "networks": [
       "Bitcoin"
     ],
     "tags": [
@@ -527,7 +527,7 @@
     "name": "Ocean Protocol",
     "description": "OceanDAO offers community grants curated by OCEAN holders, towards growing the Ocean ecosystem. Funding is available for building software that uses Ocean, unleashing data, outreach, and improving OceanDAO itself.",
     "url": "https://oceanprotocol.com/dao",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -539,7 +539,7 @@
     "name": "Open Grants",
     "description": "Our goal is to create long-term incentives for open-source developers working on Ethereum’s roadmap, especially public goods R&D, which are essential to Ethereum’s success.",
     "url": "https://opengrants.com/",
-    "chains": [
+    "networks": [
       "Ethereum"
     ],
     "tags": [
@@ -553,7 +553,7 @@
     "name": "Polkadot Web3 Foundation Grants",
     "description": "Web3 Foundation offers grants for open source software development and research around Substrate, Polkadot, Kusama and ink!. Applications and deliveries are tracked transparently on GitHub.",
     "url": "https://wiki.polkadot.network/docs/grants",
-    "chains": [
+    "networks": [
       "Polkadot",
       "Substrate",
       "Kusama"
@@ -567,7 +567,7 @@
     "name": "Polygon Funds",
     "description": "Polygon Funds advance and boost the Web3 space by supporting ventures, developers and projects.",
     "url": "https://polygon.technology/funds/",
-    "chains": [
+    "networks": [
       "Polygon"
     ],
     "tags": [
@@ -580,7 +580,7 @@
     "name": "Provenance Grants Program",
     "description": "The Provenance Blockchain Foundation funds a grants program for projects that enhance the ecosystem, research new directions, or provide educational resources.",
     "url": "https://provenance.io/grants",
-    "chains": [
+    "networks": [
       "Provenance"
     ],
     "tags": [
@@ -597,7 +597,7 @@
     "name": "Solana Foundation Grants Program",
     "description": "The Solana Foundation Grants Program provides milestone-based funding to support initiatives aimed at decentralizing, growing, and securing the Solana network.",
     "url": "https://solana.foundation/grants",
-    "chains": [
+    "networks": [
       "Solana"
     ],
     "tags": [
@@ -611,7 +611,7 @@
     "name": "Stacks Grants",
     "description": "Stack Grants fund infrastructure development, tools, research, education, & other initiatives that enable growth of the Stacks Ecosystem.",
     "url": "https://stacks.org/grants",
-    "chains": [
+    "networks": [
       "Bitcoin"
     ],
     "tags": [
@@ -624,7 +624,7 @@
     "name": "Stellar Grants & Funding",
     "description": "The Stellar Development Foundation currently holds 30 billion XLM to be used for promoting and enhancing Stellar. Part of that amount goes directly into grants and funding to projects building on and contributing to the growth of the Stellar network. Explore our grants below and see if you’re eligible to apply today.",
     "url": "https://www.stellar.org/foundation/grants-and-funding",
-    "chains": [
+    "networks": [
       "Stellar"
     ],
     "tags": [
@@ -637,7 +637,7 @@
     "name": "Substrate Builders Program",
     "description": "The Substrate Builders Program is a grant program for teams building on Substrate. The program is designed to help teams build and grow their projects, and to help the Substrate ecosystem grow.",
     "url": "https://substrate.io/ecosystem/substrate-builders-program/",
-    "chains": [
+    "networks": [
       "Substrate"
     ],
     "tags": [
@@ -648,7 +648,7 @@
     "name": "The Graph Grants",
     "description": "The Graph Foundation is launching The Graph Grants Program to support network participants and contributors to The Graph ecosystem.",
     "url": "https://airtable.com/shrdfvnFvVch3IOVm",
-    "chains": [
+    "networks": [
       "Gnosis Chain",
       "NEAR",
       "Polygon",
@@ -679,7 +679,7 @@
     "name": "Tezos Foundations Grant Program",
     "description": "The Tezos Foundation is a non-profit organization that supports the Tezos ecosystem. The Foundation is committed to supporting the Tezos ecosystem by providing grants to projects that are aligned with the Foundation’s mission.",
     "url": "https://grants.tezos.foundation/",
-    "chains": [
+    "networks": [
       "Tezos"
     ],
     "tags": [
@@ -691,7 +691,7 @@
     "name": "Uniswap Grants Program",
     "description": "Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. Uniswap is also the name of the company that initially built the Uniswap protocol. The protocol facilitates automated transactions between cryptocurrency tokens on the Ethereum blockchain through the use of smart contracts.",
     "url": "https://www.unigrants.org/",
-    "chains": [
+    "networks": [
       "Ethereum",
       "Polygon"
     ],
@@ -704,7 +704,7 @@
     "name": "Zcash Community Grants",
     "description": "The Zcash Community Grants program (formerly known as ZOMG) funds independent teams entering the Zcash ecosystem, to perform major ongoing development (or other work) for the public good of the Zcash ecosystem. Funding for Zcash Community Grants comes from the Major Grants slice of the Zcash Dev Fund. Grants are chosen by a five-person committee elected by the Zcash Community.",
     "url": "https://zcashcommunitygrants.org/",
-    "chains": [
+    "networks": [
       "Zcash"
     ],
     "tags": [
