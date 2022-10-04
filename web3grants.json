@@ -61,6 +61,21 @@
     ]
   },
   {
+    "name": "Avalanche Multiverse and Blizzard",
+    "description": "Avalanche Multiverse is an up to $290M (up to 4M AVAX) incentive program focused on accelerating the adoption and growth of its novel “subnet” functionality, which enables a rich ecosystem of scalable app-specific blockchains. Initially, the program is focused on supporting new ecosystems including, but not limited to, blockchain-enabled gaming, Defi, NFTs, and institutional use cases. &#10;&#13;Blizzard is an over $200M fund dedicated to accelerating development, growth, and innovation across the ecosystem of builders and users of the Avalanche public blockchain and beyond.",
+    "url": "https://support.avax.network/en/articles/6128565-grants-how-do-i-get-involved-with-avalanche",
+    "networks": [
+      "Avalanche"
+    ],
+    "tags": [
+      "Development",
+      "Gaming",
+      "DeFi",
+      "NFT",
+      "Community"
+    ]
+  },
+  {
     "name": "Balancer Grants DAO",
     "description": "The Grant Program provides support and funding to projects committed to supporting the Balancer Protocol in achieving its mission to become the number one source of liquidity for DeFi. This program is made for groups and individuals that want to build on the Balancer Protocol or supports the development of the Balancer ecosystem.",
     "url": "https://quark-ceres-740.notion.site/Balancer-Grants-938f1b979810427f8d903a904315da41",
@@ -469,16 +484,16 @@
       "Content"
     ]
   },
-  {
-    "name": "Nexus Mutual Community Fund",
-    "description": "Projects should benefit the growth and development of the mutual but aren't limited otherwise - examples could include anything from writing to videos to building on top of Nexus and beyond.",
-    "url": "https://nexusmutual.gitbook.io/docs/nexus-mutant-community/community-fund/grant-application-process",
+    {
+    "name": "Neo Eco Support",
+    "description": "Whether you are a hobbyist developer, a fledgling start-up, or an established business, we have a range of initiatives to help you bring your vision to life on the Neo blockchain.",
+    "url": "https://neo.org/eco",
     "networks": [
-      "Ethereum"
+      "Neo"
     ],
     "tags": [
-      "Community",
-      "Development"
+      "Development",
+      "Content"
     ]
   },
   {
@@ -491,6 +506,18 @@
     "tags": [
       "Community",
       "Infrastructure",
+      "Development"
+    ]
+  },
+  {
+    "name": "Nexus Mutual Community Fund",
+    "description": "Projects should benefit the growth and development of the mutual but aren't limited otherwise - examples could include anything from writing to videos to building on top of Nexus and beyond.",
+    "url": "https://nexusmutual.gitbook.io/docs/nexus-mutant-community/community-fund/grant-application-process",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "Community",
       "Development"
     ]
   },
@@ -567,6 +594,22 @@
     "description": "Polygon Funds advance and boost the Web3 space by supporting ventures, developers and projects.",
     "url": "https://polygon.technology/funds/",
     "networks": [
+      "Polygon"
+    ],
+    "tags": [
+      "Community",
+      "DeFi",
+      "Development"
+    ]
+  },
+  {
+    "name": "PoolTogether PoolGrants",
+    "description": "We launched this effort with a focus on enabling the entire user base, with its wide range of talents, to contribute those skills to the protocol in their own ways-whatever those ways are! Our approach to achieving that goal is to offer users the option to apply for Micro Grants in addition to proposals that require much more attention.",
+    "url": "https://poolgrants.org",
+    "networks": [
+      "Avalanche",
+      "Ethereum",
+      "Optimism",
       "Polygon"
     ],
     "tags": [
