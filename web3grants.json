@@ -76,6 +76,17 @@
     ]
   },
   {
+    "name": "Axelar LongHash Program",
+    "description": "Axelar has partnered with LongHash to accelerate and invest in the next generation of leading projects building chain-agnostic and interoperable dApps. Apply to get a chance to receive up to US$100K upfront investment from the LongHashX accelerator or a Grant from Axelar.",
+    "url": "https://axelar.network/grant-program",
+    "networks": [
+      "Axelar"
+    ],
+    "tags": [
+      "Development"
+    ]
+  },
+  {
     "name": "Balancer Grants DAO",
     "description": "The Grant Program provides support and funding to projects committed to supporting the Balancer Protocol in achieving its mission to become the number one source of liquidity for DeFi. This program is made for groups and individuals that want to build on the Balancer Protocol or supports the development of the Balancer ecosystem.",
     "url": "https://quark-ceres-740.notion.site/Balancer-Grants-938f1b979810427f8d903a904315da41",
@@ -158,6 +169,21 @@
       "Education",
       "Tooling",
       "Security"
+    ]
+  },
+  {
+    "name": "Cronos Ecosystem Grants",
+    "description": "The Cronos Ecosystem Grants program aims to support early stage projects on Cronos by bootstrapping initial product development and providing technical support. We aim to align incentives together with new builders and teams by helping their projects grow together with the broader ecosystem.",
+    "url": "https://medium.com/cronos-chain/cronos-ecosystem-grants-7a4a2de3b721",
+    "networks": [
+      "Cronos"
+    ],
+    "tags": [
+      "Development",
+      "DeFi",
+      "NFT",
+      "Games",
+      "Infrastructure"
     ]
   },
   {
@@ -341,6 +367,18 @@
     ]
   },
   {
+    "name": "Immutable Fund",
+    "description": "The $500m fund is set up to exponentially accelerate the growth and success of web3 projects & games built on Ethereum’s leading Layer 2 protocol, Immutable X, via Ventures and providing access to Digital Worlds’ Grants.",
+    "url": "https://immutable.com/fund/",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "Development",
+      "Games"
+    ]
+  }
+  {
     "name": "Interchain Foundation",
     "description": "The Builders Program provides mentorship, structured support and access to a wide network of partners. It is led by a team experienced in building the ecosystem’s software and infrastructure.",
     "url": "https://interchain.io/builders",
@@ -424,6 +462,20 @@
     "name": "MetaCartel Grants",
     "description": "MetaCartel is a non-profit grants fund focused on creation and impact. DAO is funded mostly by individuals in the community.",
     "url": "https://forum.metacartel.org/t/guide-how-to-post-a-funding-proposal/74",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "DeFi",
+      "Development",
+      "dApp",
+      "DAO"
+    ]
+  },
+  {
+    "name": "MilestoneBased",
+    "description": "Unsystematic investor-founder relationships, capital and process inefficiency, lost funds, and inexperienced founders with execution issues. milestoneBased is the first company to leverage DAO and smart contract escrow tools in an automated governance and fund management platform.",
+    "url": "https://milestonebased.com/",
     "networks": [
       "Ethereum"
     ],
