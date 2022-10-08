@@ -146,6 +146,25 @@
     ]
   },
   {
+    "name": "clr.fund (Clear Fund)",
+    "description": "Clr.fund, pronounced \"Clear Fund\", is a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the preferences of the Ethereum Community. Clr.fund strives for credible neutrality, decentralization, permissionlessness, trustlessness, and pseudonymity.",
+    "url": "https://clr.fund/",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "DeFi",
+      "Development",
+      "Community",
+      "DAO",
+      "Education",
+      "Infrastructure",
+      "Research",
+      "Privacy",
+      "Security"
+    ]
+  },
+  {
     "name": "Compound Grant Program",
     "description": "Mission: To provide grants to projects, ideas, and events that benefit Compound and its ecosystem. ",
     "url": "https://compoundgrants.org/",
