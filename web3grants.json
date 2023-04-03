@@ -206,6 +206,24 @@
     ]
   },
   {
+    "name": "Decentraland DAO Grants Program",
+    "description": "Contribute to building a metaverse owned and created by its users",
+    "url": "https://governance.decentraland.org/grants/",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "Metaverse",
+      "Platform",
+      "Decentraland",
+      "Games", 
+      "Community",
+      "DAO",
+      "MANA
+      "dApp",
+    ]
+  },
+  {
     "name": "dydx Grants",
     "description": "dydx Grants is a program that funds projects that build on top of the dydx protocol. The program is designed to support the growth of the dydx ecosystem and the DeFi space as a whole.",
     "url": "https://www.dydxgrants.com/",
