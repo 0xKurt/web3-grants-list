@@ -825,6 +825,22 @@
       "DeFi"
     ]
   },
+   {
+    "name": "XRPL Grants",
+    "description": "XRPL Grants funds software developement projects leveraging the XRP Ledger. Funding ranges from $10,000 to $200,000. Open calls for applications are posted multiple times per year.",
+    "url": "https://xrplgrants.org/",
+    "networks": [
+      "XRP Ledger"
+    ],
+    "tags": [
+      "Development",
+      "DeFi",
+      "Tooling",
+      "Infrastructure",
+      "Security",
+      "dApp"
+    ]
+  },
   {
     "name": "Zcash Community Grants",
     "description": "The Zcash Community Grants program (formerly known as ZOMG) funds independent teams entering the Zcash ecosystem, to perform major ongoing development (or other work) for the public good of the Zcash ecosystem. Funding for Zcash Community Grants comes from the Major Grants slice of the Zcash Dev Fund. Grants are chosen by a five-person committee elected by the Zcash Community.",
