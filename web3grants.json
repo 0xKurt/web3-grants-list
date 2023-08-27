@@ -1,5 +1,16 @@
 [
   {
+    "name": "Catalyst",
+    "description": "Project Catalyst is the world’s largest decentralized innovation engine for solving real-world challenges.",
+    "url": "https://projectcatalyst.io",
+    "networks": [
+      "Cardano"
+    ],
+    "tags": [
+      "Development"
+    ]
+  },
+  {
     "name": "Aave Grants DAO 👻",
     "description": "Aave Grants DAO is a community-led grants program to fund ideas submitted by the Aave protocol’s community, with a focus on empowering a wider network of community developers. The grants program was created after a community discussion, which can be found on Aave's governance forum.",
     "url": "https://aavegrants.org/",
