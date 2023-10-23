@@ -1,5 +1,28 @@
 [
   {
+    "name": "Swarm Foundation",
+    "description": "The Swarm Foundation Grants Program  strives to foster digital freedom and unleash the true potential of decentralized technologies.",
+    "url": "https://projectcatalyst.io",
+    "networks": [
+      "Ethereum"
+    ],
+    "tags": [
+      "Development",
+      "Ecosystem",
+      "Education",
+      "Ethereum",
+      "Immutable",
+      "Infrastructure",
+      "NFT",
+      "Privacy",
+      "Research",
+      "Security",
+      "Social Good",
+      "Tooling",
+      "dApp"
+    ]
+  },
+  {
     "name": "Catalyst",
     "description": "Project Catalyst is the world’s largest decentralized innovation engine for solving real-world challenges.",
     "url": "https://projectcatalyst.io",
